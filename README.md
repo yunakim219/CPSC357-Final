@@ -9,11 +9,12 @@ Presentation Link:
 https://drive.google.com/file/d/1OCGRF4wPLq3IoofH300FbXSsDEhSbgjK/view?usp=sharing
 
 ## About
-This project aims to build a Cafe Searching App using SwiftUI. Available features include Cafe lists by location, Trending Cafe lists, and User Profile with save places feature. 
+This project aims to build a Cafe Searching App using SwiftUI. It was intended for the users who want an app that focus on information about cafes. Available features include cafe lists by location, trending cafe lists, and user profile with save places feature. 
 
 Attempted to follow design heuristics and iOS Human Guidelines by 
 * keeping minimalistic and aesthetic visuals
-* using familiar functions and views
+* using familiar functions and views similar to other apps
 * using icons instead of text only
 * allowing user controls with saved place feature
-* allowing simple gestures like tapping 
+* allowing simple gestures like tapping
+* keeping similar styles throughout the app
