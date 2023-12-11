@@ -6,7 +6,7 @@ yunakim@chapman.edu
 CPSC357-01 Final Project
 
 Presentation Link: 
-https://drive.google.com/file/d/1OCGRF4wPLq3IoofH300FbXSsDEhSbgjK/view?usp=sharing
+https://www.youtube.com/watch?v=QyzxiqLqKWk
 
 ## About
 This project aims to build a Cafe Searching App using SwiftUI. It was intended for the users who want an app that focus on information about cafes. Available features include cafe lists by location, trending cafe lists, and user profile with save places feature. 
