@@ -1,0 +1,85 @@
+
+[
+    {
+        "id": "1",
+        "name": "Orobae",
+        "location": "Irvine",
+        "address": "14250 Culver Dr, Ste E, Irvine, CA 92604",
+        "raiting": "1",
+        "imageName": "orobae",
+        "saved": false
+    },
+    {
+        "id": "2",
+        "name": "Capital One Cafe",
+        "location": "Irvine",
+        "address": "757 Spectrum Center Dr, Irvine, CA 92618",
+        "raiting": "3",
+        "imageName": "capitalonecafe",
+        "saved": true
+    },
+    {
+        "id": "3",
+        "name": "Ape Coffee",
+        "location": "Orange",
+        "address": "2817 E Chapman Ave, Orange, CA 92869",
+        "raiting": "2",
+        "imageName": "apecoffee",
+        "saved": false
+    },
+    {
+        "id": "4",
+        "name": "Contra Coffee & Tea",
+        "location": "Orange",
+        "address": "115 N Orange St, Orange, CA 92866",
+        "raiting": "3",
+        "imageName": "contracoffee",
+        "saved": false
+    },
+    {
+        "id": "5",
+        "name": "Play Coffee",
+        "location": "Orange",
+        "address": "100 N Orange St, Orange, CA 92866",
+        "raiting": "3",
+        "imageName": "playcoffee",
+        "saved": false
+    },
+    {
+        "id": "6",
+        "name": "Caffe In Coffee Co.",
+        "location": "Anaheim",
+        "address": "5642 E La Palma Ave, Ste 112, Anaheim, CA 92807",
+        "raiting": "2",
+        "imageName": "caffeincoffee",
+        "saved": false
+    },
+    {
+        "id": "7",
+        "name": "White Sparrow",
+        "location": "Tustin",
+        "address": "100 W Main St, Ste 3, Tustin, CA 92780",
+        "raiting": "1",
+        "imageName": "whitesparrow",
+        "saved": false
+    },
+    {
+        "id": "8",
+        "name": "Wall Writers",
+        "location": "Irvine",
+        "address": "7755 Irvine Center Dr, Irvine, CA 92618",
+        "raiting": "1",
+        "imageName": "wallwriters",
+        "saved": false
+    },
+    {
+        "id": "9",
+        "name": "Van Dyke Coffee Irvine",
+        "location": "Irvine",
+        "address": "19100 Von Karman Ave, Ste 120, Irvine, CA 92612",
+        "raiting": "3",
+        "imageName": "vandyke",
+        "saved": false
+    }
+    
+]
